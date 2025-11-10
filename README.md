@@ -1,7 +1,7 @@
 <h1>Hi, I'm Ahmed Magdy 👋</h1>
 
 <p>
-  <b>Full Stack Engineer</b>  
+  <b>💻 Full Stack Engineer</b>  
   <br/>
   🎓 Bachelor's in Computer Science — Helwan University, Cairo, Egypt  
   <br/>
