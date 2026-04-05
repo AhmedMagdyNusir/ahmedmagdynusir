@@ -5,18 +5,18 @@
   <br/>
   🎓 Bachelor's in Computer Science — Helwan University, Cairo, Egypt  
   <br/>
-  🌐 <a href="https://ahmedmagdy.vercel.app" target="_blank">ahmedmagdy.vercel.app</a>
+  🌐 <a href="https://ahmedmagdy.vercel.app" target="_blank">ahmedmagdynusir.com</a>
 </p>
 
 ---
 
 ### About Me
 
-A software engineer specializing in TypeScript, dedicated to building high-performance web applications. I focus on clean, efficient code to deliver innovative solutions that adapt to future growth and enhance user experience.
+Full Stack Engineer with 2+ years of experience building scalable systems and production-ready applications. Experienced with Nest.js, Next.js, and modern databases, with hands-on work in ERP and user-focused platforms.
 
 ---
 
-### Tech Stack
+### Main Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -24,6 +24,7 @@ A software engineer specializing in TypeScript, dedicated to building high-perfo
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
@@ -32,20 +33,13 @@ A software engineer specializing in TypeScript, dedicated to building high-perfo
 
 ### Featured Projects
 
-| Project           | Description                                                            |
-| ----------------- | ---------------------------------------------------------------------- |
-| **Plany**         | Productivity app with smart task management and Dark/Light modes       |
-| **Leopard ERP**   | Comprehensive ERP system for managing inventory, sales, and accounting |
-| **Pro Sales CRM** | Secure CRM system with authentication and role-based access control    |
+### Featured Projects
 
----
-
-### GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedmagdynusir&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmagdynusir&layout=compact&theme=tokyonight" height="165" />
-</p>
+| Project                        | Description                                                                             |
+| ------------------------------ | --------------------------------------------------------------------------------------- |
+| **Leopard ERP & Online Store** | Full-featured ERP and eCommerce platform for retail businesses with RBAC and analytics. |
+| **Gen Z App**                  | Mental health platform with personalized wellness content and user engagement tools.    |
+| **Pro Sales CRM**              | Customizable CRM to optimize sales workflows, client management, and reporting.         |
 
 ---
 
