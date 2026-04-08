@@ -5,7 +5,7 @@
   <br/>
   🎓 Bachelor's in Computer Science — Helwan University, Cairo, Egypt  
   <br/>
-  🌐 <a href="https://ahmedmagdy.vercel.app" target="_blank">ahmedmagdynusir.com</a>
+  🌐 <a href="https://ahmedmagdynusir.com" target="_blank">ahmedmagdynusir.com</a>
 </p>
 
 ---
@@ -24,12 +24,10 @@ Full Stack Engineer with 2+ years of experience building scalable systems and pr
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ---
