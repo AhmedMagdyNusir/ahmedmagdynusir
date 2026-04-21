@@ -12,7 +12,7 @@
 
 ### About Me
 
-Full Stack Engineer with 2+ years of experience building scalable systems and production-ready applications. Experienced with Nest.js, Next.js, and modern databases, with hands-on work in ERP and user-focused platforms.
+Full Stack Engineer with 2+ years of experience building scalable ERP systems and user-centric platforms. Specialized in NestJS, Next.js, and designing scalable data architectures using PostgreSQL and MongoDB. Experienced in complex troubleshooting and delivering high-performance applications with a focus on modern UI. Demonstrated experience migrating legacy systems and implementing secure role-based access controls.
 
 ---
 
@@ -41,8 +41,6 @@ Full Stack Engineer with 2+ years of experience building scalable systems and pr
 | **Pro Sales CRM**              | Customizable CRM to optimize sales workflows, client management, and reporting.         |
 
 ---
-
-<br />
 
 <p>
   <i>“Simplicity is the soul of efficiency.” — Austin Freeman</i>
